@@ -33,7 +33,7 @@
 // }
 
 // export default App
-
+import BubbleBackground from "./components/BubbleBackground";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Logos from "./components/Logos";
@@ -45,9 +45,11 @@ import Varnan from "./components/Varnan";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
+
 export default function App() {
   return (
     <>
+      <BubbleBackground />
       <Navbar />
       <Hero />
       <Logos />

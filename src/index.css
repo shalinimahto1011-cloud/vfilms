@@ -92,3 +92,19 @@ body {
 .serif {
   font-family: "Playfair Display", Georgia, Cambria, "Times New Roman", Times, serif;
 }
+
+@keyframes float {
+  0% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-25px) scale(1.1);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-float {
+  animation: float ease-in-out infinite;
+}
