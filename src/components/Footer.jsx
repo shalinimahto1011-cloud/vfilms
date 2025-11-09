@@ -1,3 +1,9 @@
+/**
+ * Footer with site navigation links and copyright line.
+ * Reuses same anchor IDs as navbar for consistency.
+ */
+
+
 export default function Footer() {
     return (
       <footer className="py-10">

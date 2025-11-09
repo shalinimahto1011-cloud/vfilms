@@ -1,3 +1,11 @@
+/**
+ * Navbar component for site navigation.
+ * Includes quick links to sections: Services, Their Stories, Our Story,
+ * The Story of Joy Sharma (scrolls to Reel), and Varnan.
+ * Also includes “Let's Talk” button linking to Contact section.
+ */
+
+
 export default function Navbar() {
     return (
       <header className="w-full">

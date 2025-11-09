@@ -1,3 +1,9 @@
+/**
+ * “Our Story” section.
+ * Explains company journey, achievements, and team statistics.
+ */
+
+
 export default function About() {
     return (
       <section id="about" className="py-14">

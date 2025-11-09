@@ -1,3 +1,9 @@
+/**
+ * Varnan identity section.
+ * Defines the brand philosophy – “the practice of shaping feeling into form.”
+ */
+
+
 export default function Varnan() {
     return (
       <section id="varnan" className="py-14">

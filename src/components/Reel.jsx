@@ -1,3 +1,9 @@
+/**
+ * Reel (video) section - The Story of Joy Sharma.
+ * Embeds a responsive YouTube video (16:9) with rounded corners and shadow.
+ * Demonstrates storytelling and visual work of the brand.
+ */
+
 export default function Reel() {
   return (
     <section className="py-14 bg-[var(--brand-bg)]">

@@ -1,3 +1,9 @@
+/**
+ * Displays a horizontal grid of client logos.
+ * Used to showcase brand associations or partnerships.
+ */
+
+
 const logos = [
     "https://placehold.co/120x40?text=Client+1",
     "https://placehold.co/120x40?text=Client+2",

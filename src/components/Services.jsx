@@ -1,3 +1,9 @@
+/**
+ * Services section listing different categories of work offered by Varnan Films.
+ * Presented in a responsive grid layout with subtle hover effects.
+ */
+
+
 const items = [
     { title: "Brand Films", desc: "Narratives that define your brand voice." },
     { title: "Documentaries", desc: "Human stories crafted with care." },

@@ -1,3 +1,11 @@
+/**
+ * Contact form with API integration.
+ * Submits data to https://vernanbackend.ezlab.in/api/contact-us/
+ * Includes validation for empty fields, email, and phone.
+ * Displays success message (“Form Submitted”) on 200/201 response.
+ */
+
+
 import { useState } from "react";
 import axios from "axios";
 import { isEmail, isPhone, isNonEmpty } from "../utils/validate";

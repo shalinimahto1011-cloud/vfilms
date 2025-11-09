@@ -1,3 +1,9 @@
+/**
+ * “Their Stories” section.
+ * Displays testimonial quotes from clients to highlight credibility.
+ */
+
+
 const quotes = [
     { q: "They listened first, then built a film that felt ours.", by: "Client A" },
     { q: "Professional and patient. The story found its rhythm.", by: "Client B" },

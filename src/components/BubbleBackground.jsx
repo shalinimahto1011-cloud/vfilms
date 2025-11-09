@@ -1,3 +1,10 @@
+/**
+ * Animated interactive background component.
+ * Generates floating bubbles that disappear when hovered over.
+ * Runs behind all sections to create a playful, dynamic aesthetic.
+ */
+
+
 import { useEffect, useState } from "react";
 
 export default function BubbleBackground() {
